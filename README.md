@@ -13,7 +13,7 @@ A Simple Dairy app in flutter with crud operations using xampp server
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c0ca48accfd3fcad879b085c20ffcd599630936e/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d656e746f732f76313537343936323834372f6d6f636b75702f736c696465725f312e706e67"><img src="https://camo.githubusercontent.com/c0ca48accfd3fcad879b085c20ffcd599630936e/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d656e746f732f76313537343936323834372f6d6f636b75702f736c696465725f312e706e67" alt="Onboarding slide 1" data-canonical-src="https://res.cloudinary.com/mentos/v1574962847/mockup/slider_1.png" style="max-width:100%;"></a></td>
+<td align="center"><img src="https://github.com/rahamanar/Dairy_app_flutter/blob/main/Screenshots/Screenshot_1.png" width="205" height="380"></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/582a479e8327f578d0757d8e5c7861e6ae6fa6b6/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d656e746f732f76313537343936323931352f6d6f636b75702f736c696465725f322e706e67"><img src="https://camo.githubusercontent.com/582a479e8327f578d0757d8e5c7861e6ae6fa6b6/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d656e746f732f76313537343936323931352f6d6f636b75702f736c696465725f322e706e67" alt="Onboarding slide 2" data-canonical-src="https://res.cloudinary.com/mentos/v1574962915/mockup/slider_2.png" style="max-width:100%;"></a></td>
 </tr>
 <tr>
