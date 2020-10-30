@@ -12,13 +12,17 @@ A Simple Dairy app in flutter with crud operations using xampp server
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr>  
 <td align="center"><img src="https://github.com/rahamanar/Dairy_app_flutter/blob/main/Screenshots/Screenshot_1.png" width="205" height="380"></td>
 <td align="center"><img src="https://github.com/rahamanar/Dairy_app_flutter/blob/main/Screenshots/Screenshot_2.png" width="205" height="380"></td>
+</tr>
+<tr>  
 <td align="center"><img src="https://github.com/rahamanar/Dairy_app_flutter/blob/main/Screenshots/Screenshot_3.png" width="205" height="380"></td>
 <td align="center"><img src="https://github.com/rahamanar/Dairy_app_flutter/blob/main/Screenshots/Screenshot_4.png" width="205" height="380"></td>
+</tr>
+<tr>  
 <td align="center"><img src="https://github.com/rahamanar/Dairy_app_flutter/blob/main/Screenshots/Screenshot_5.png" width="205" height="380"></td>
-
+<td align="center"><img src="https://github.com/rahamanar/Dairy_app_flutter/blob/main/Screenshots/dairyApp.gif" width="205" height="380"></td>
 </tr>
 </tbody>
 </table>
